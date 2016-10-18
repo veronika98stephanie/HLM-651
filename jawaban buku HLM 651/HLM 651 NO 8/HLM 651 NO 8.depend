@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476780339 source:h:\jawaban buku hlm 651\hlm 651 no 8\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<iomanip>
+

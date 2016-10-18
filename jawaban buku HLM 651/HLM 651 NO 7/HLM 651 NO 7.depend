@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1476711005 source:h:\exercise\hlm 651 no 7\main.cpp
+	<iostream>
+	<cctype>
+
+1476772422 source:h:\jawaban buku hlm 651\hlm 651 no 7\main.cpp
+	<iostream>
+	<cctype>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<stdlib.h>
+	<sstream>
+
